@@ -21,19 +21,19 @@ Description of columns in the file:
 
 Can download the dataset from kaggle
 
-https://www.kaggle.com/eswarchandt/amazon-music-reviews
+![kaggle]https://www.kaggle.com/eswarchandt/amazon-music-reviews
 
 <hr>
 If you want to contact me you can do it through my linked-in
 
-https://www.linkedin.com/in/jos%C3%A9-max-barrios-lara-b27a501aa/
+![Linked-in]https://www.linkedin.com/in/jos%C3%A9-max-barrios-lara-b27a501aa/
 
 <hr>
 The main idea of this code is to try to answer real live questions from data, and create a model based on customers reviews, with data science.
 
-The model tries to predict if a corpus represents a negative or positive comment about a certain product.
+The model tries to predict if a corpus represents a negative, positive or neutra comment about a certain product.
 
-The model can be improved.
+The model can be improved with more data (specially neutral and negative comments).
 
 
 ![giphy](https://user-images.githubusercontent.com/55581483/110271535-4555b980-7f96-11eb-9703-821c945716e6.gif)
