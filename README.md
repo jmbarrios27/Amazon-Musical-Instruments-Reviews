@@ -21,12 +21,12 @@ Description of columns in the file:
 
 Can download the dataset from kaggle
 
-![kaggle]https://www.kaggle.com/eswarchandt/amazon-music-reviews
+[Kaggle](https://www.kaggle.com/eswarchandt/amazon-music-reviews)
 
 <hr>
 If you want to contact me you can do it through my linked-in
 
-![Linked-in]https://www.linkedin.com/in/jos%C3%A9-max-barrios-lara-b27a501aa/
+[Linked-in](https://www.linkedin.com/in/jos%C3%A9-max-barrios-lara-b27a501aa/)
 
 <hr>
 The main idea of this code is to try to answer real live questions from data, and create a model based on customers reviews, with data science.
