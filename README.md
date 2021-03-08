@@ -34,3 +34,6 @@ The main idea of this code is to try to answer real live questions from data, an
 The model tries to predict if a corpus represents a negative or positive comment about a certain product.
 
 The model can be improved.
+
+
+![giphy](https://user-images.githubusercontent.com/55581483/110271535-4555b980-7f96-11eb-9703-821c945716e6.gif)
